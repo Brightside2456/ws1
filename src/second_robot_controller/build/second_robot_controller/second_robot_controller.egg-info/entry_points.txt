@@ -1,0 +1,6 @@
+[console_scripts]
+first_node = second_robot_controller.first_node:main
+first_pub_node = second_robot_controller.drive_circles:main
+first_pub_sub_node = second_robot_controller.pub_sub:main
+first_sub_node = second_robot_controller.pose_sub:main
+
